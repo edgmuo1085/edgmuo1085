@@ -2,7 +2,7 @@
 - 👀 Me interesa la programación de frontend
 - 🌱 Semi Senior angular
 - 🌱 Junior Ionic
-- 💞️ Estoy buscando colaborar en proyectos de aplicaciones moviles que se relacionen con angular, react
+- 💞️ Estoy buscando colaborar en proyectos de aplicaciones moviles que se relacionen con angular, ionic, php, nodejs
 - 📫 Pueden contactarme por el correo electrónico edgmuo1085@gmail.com
 
 <!---
